@@ -1,4 +1,4 @@
-public class Training_Isaac {
+public class Main {
     public static void main(String[] args) {
         String youtuber1 = "MrBeast";
         String youtuber2 = "Inoxtag";
